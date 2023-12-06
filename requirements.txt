@@ -1,0 +1,11 @@
+Django
+psycopg2-binary
+pillow
+ipython
+pytils
+django-apscheduler
+schedule
+redis
+django-crontab
+crontab
+django-crispy-forms
